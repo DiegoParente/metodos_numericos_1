@@ -1,0 +1,27 @@
+Relatorio de desempenho do metodo gauss-jacobi serial na execucao para o sistema linear dado, tendo como parametros: e = 0.001000 e itermax = 100
+
+solucao encontrada:
+X[0] = 82.804243
+X[1] = 68.019239
+X[2] = 66.902832
+X[3] = 65.750384
+X[4] = 65.366235
+X[5] = 63.011118
+X[6] = 55.467048
+X[7] = 33.919224
+A sua execucao tomou 91 iteracoes
+
+
+
+Relatorio de desempenho do metodo gauss-seidel serial na execucao para o sistema linear dado, tendo como parametros: e = 0.001000 e itermax = 100
+
+solucao encontrada:
+X[0] = 82.801058
+X[1] = 68.005025
+X[2] = 66.935859
+X[3] = 65.777355
+X[4] = 65.468177
+X[5] = 63.053748
+X[6] = 55.501457
+X[7] = 33.929707
+A sua execucao tomou 46 iteracoes

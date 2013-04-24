@@ -1,0 +1,23 @@
+O trabalho foi feito, todo, por mim.
+1. make
+2. ./relatar
+O executavel criara um arquivo chamado "report.txt", dentro dele estara um relatório sobre a performance dos métodos Gauss-Jacobi e Gauss-Seidel para a resolucao
+do sistema linear relativo ao problema do circuito.
+
+A matriz aumentada do sistema:
+
+V1	V2	V3	V4	V5	V6	V7	V8	
+017	-05	000	000	000	000	000 -02 	1000
+001	-04	002	000	000	000	001	000		0000
+000	006	-09	002	000	001 000	000 	0000
+000	000	001	-04	003	000	000	000 	0000
+000	000	000	008	-09	001	000	000 	0000
+000	000	004	000	003	-10	003	000 	0000
+000	012	000	000	000	003	-23	008 	0000
+006 000	000	000	000	000	010	-31 	0000
+
+Olhando para a linha 2, sabemos que nao se pode afirmar baseado no criterio da linha que o metodo Gauss-Jacobi ou o Gauss-Seidel irao convergir.
+Nos arquivos X[0] corresponde ao valor de V1, X[1] de V2...
+
+Diego Parente
+Matricula 0344098
